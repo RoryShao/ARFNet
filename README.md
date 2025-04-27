@@ -7,6 +7,6 @@ Please manually download the datasets [Office-31](https://www.kaggle.com/dataset
 ### Training:
 ```python
  cd script/*/
- bash source
- bash target
+ bash source.sh
+ bash target.sh
 ```
